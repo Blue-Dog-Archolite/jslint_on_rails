@@ -11,6 +11,12 @@ paths:
 
 exclude_paths:
 
+# paths to include parsing of javascript in haml files. Uncomment to include
+#haml_paths:
+#  - app/views/**/*.html.haml
+#  - app/views/**/_*.html.haml
+#  - app/views/**/*.js.haml
+#  - app/views/**/_*.js.haml
 
 # ------------ jslint options ------------
 # see http://www.jslint.com/lint.html#options for more detailed explanations

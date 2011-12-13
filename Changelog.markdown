@@ -1,3 +1,7 @@
+Version 1.0.7 (13.12.2011)
+
+* fix for #{@antonym_map.keys[0..@adcount].to_json}
+
 Version 1.0.6 (19.02.2011)
 
 * escape $ in predef line to prevent Bash for interpreting it

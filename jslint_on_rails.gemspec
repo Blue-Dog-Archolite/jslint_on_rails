@@ -9,8 +9,8 @@ Gem::Specification.new do |s|
   s.summary = "JSLint JavaScript checker wrapped in a Ruby gem for easier use"
   s.homepage = "http://github.com/psionides/jslint_on_rails"
 
-  s.author = "Jakub Suder"
-  s.email = "jakub.suder@gmail.com"
+  s.author = "Jakub Suder, Robert Meyer"
+  s.email = "jakub.suder@gmail.com", "Blue.Dog.Archolite@gmail.com"
 
   s.requirements = ['Java JRE (5.0 or later)']
   s.files = ['MIT-LICENSE', 'README.markdown', 'Changelog.markdown', 'Gemfile', 'Gemfile.lock', 'Rakefile'] +
